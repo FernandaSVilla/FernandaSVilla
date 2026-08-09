@@ -5,11 +5,11 @@
 <img src="./intro.gif" alt="Fernanda S. Villa" width="1050" />
 </div>
 
-# Hey! I'm Fernanda S. Villa
+# Welcome! I'm Fernanda S. Villa 
 
 **Interested in how intelligence is engineered, how data is governed, and how technology quietly reshapes the world around us.**
 
-Based in Germany | Working on AI Governance & Data Governance
+Based in 🇩🇪 Germany | Working on AI Governance & Data Governance
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariafsanchezvilla/)
