@@ -9,8 +9,6 @@
 
 ---
 
-**Interested in how intelligence is engineered, how data is governed, and how technology quietly reshapes the world around us.**
-
 Based in Germany | Learning and working in AI & Data Governance
 
 ---
