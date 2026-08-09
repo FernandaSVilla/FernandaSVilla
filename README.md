@@ -2,7 +2,7 @@
 <div style="font-family: 'Calibri Light', Calibri, sans-serif; font-weight: 300;">
 
 <div align="center">
-<img src="./intro.gif" alt="Fernanda S. Villa" width="600" />
+<img src="./intro.gif" alt="Fernanda S. Villa" width="900" />
 </div>
 
 # Hey! I'm Fernanda S. Villa
