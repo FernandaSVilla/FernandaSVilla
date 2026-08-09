@@ -1,9 +1,4 @@
-<style>
-body, * {
-  font-family: 'Calibri Light', Calibri, sans-serif !important;
-  font-weight: 300 !important;
-}
-</style>
+
 
 <div style="font-family: 'Calibri Light', Calibri, sans-serif; font-weight: 300;">
 
