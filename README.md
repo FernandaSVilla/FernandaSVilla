@@ -9,7 +9,7 @@
 
 **Interested in how intelligence is engineered, how data is governed, and how technology quietly reshapes the world around us.**
 
-Based in 🇩🇪 Germany | Working on AI Governance & Data Governance
+Based in Germany |
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariafsanchezvilla/)
