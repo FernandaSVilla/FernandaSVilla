@@ -7,14 +7,11 @@
 
 # Welcome! I'm Fernanda S. Villa 
 
+---
+
 **Interested in how intelligence is engineered, how data is governed, and how technology quietly reshapes the world around us.**
 
 Based in Germany | Learning and working in AI & Data Governance
-
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariafsanchezvilla/)
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@FernandaSVilla)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/FernandaSVilla)
 
 ---
 
@@ -59,6 +56,11 @@ Based in Germany | Learning and working in AI & Data Governance
 Reading and writing about AI governance, data strategy, and compliance on [Medium](https://medium.com/@FernandaSVilla). Coming soon.
 
 ---
+
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariafsanchezvilla/)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@FernandaSVilla)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/FernandaSVilla)
 
 ## Let's connect
 
