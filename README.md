@@ -1,9 +1,3 @@
-<style>
-body, * {
-  font-family: 'Calibri Light', Calibri, sans-serif !important;
-  font-weight: 300 !important;
-}
-</style>
 
 <div style="font-family: 'Calibri Light', Calibri, sans-serif; font-weight: 300;">
 
@@ -28,12 +22,12 @@ Based in Germany | Working on AI Governance & Data Governance
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML-E34C26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![APIs](https://img.shields.io/badge/APIs-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
 [![LLMs](https://img.shields.io/badge/LLMs-412991?logo=openai&logoColor=white)](https://openai.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
@@ -53,12 +47,9 @@ Based in Germany | Working on AI Governance & Data Governance
 
 ## Currently exploring
 
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6C37?style=flat)](https://en.wikipedia.org/wiki/Machine_learning)
-[![RAG](https://img.shields.io/badge/RAG%20Systems-4ECDC4?style=flat)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
 [![AI Agents](https://img.shields.io/badge/AI%20Agents-95E1D3?style=flat)](https://en.wikipedia.org/wiki/Intelligent_agent)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-FF6B9D?style=flat)](https://opensource.org/)
 
 ---
