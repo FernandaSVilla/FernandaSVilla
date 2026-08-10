@@ -54,7 +54,7 @@ Based in Germany | Learning and working in AI & Data Governance
 
 ## Latest writing
 
-Reading and writing about AI governance, data strategy, and compliance on [Medium](https://medium.com/@FernandaSVilla). Coming soon.
+Reading and writing about AI governance, data strategy, and compliance on [Medium](https://medium.com/@FernandaSVilla). 
 
 ---
 
