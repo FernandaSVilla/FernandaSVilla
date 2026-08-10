@@ -28,15 +28,18 @@ Based in Germany | Learning and working in AI & Data Governance
 
 ## Projects
 
-| Project | Project Here | Repository |
-|---------|------|------|
-| AI & Data Governance Maps | [Visit][1] | [GitHub][2] |
-| The GDPR Constellation | [Visit][1] | [GitHub][2] |
-| DataGovern-Policy-as-Code | Coming soon | [GitHub][3] |
+| Project | Project Here | Repository | DOI | Cite as |
+|---------|------|------|-----|-----|
+| AI & Data Governance Maps | [Visit][1] | [GitHub][2] | <a href="https://doi.org/10.5281/zenodo.21872486"><img src="https://zenodo.org/badge/1327018846.svg" alt="DOI"></a> | [Cite][5] |
+| The GDPR Constellation | [Visit][1] | [GitHub][4] | <a href="https://doi.org/10.5281/zenodo.21872517"><img src="https://zenodo.org/badge/1326969025.svg" alt="DOI"></a> | [Cite][6] |
+| DataGovern-Policy-as-Code | Coming soon | [GitHub][3] | Coming soon | Coming soon |
 
 [1]: https://fernandasvilla.github.io/AI-and-Data-Governance-map/
 [2]: https://github.com/FernandaSVilla/AI-and-Data-Governance-map
 [3]: https://github.com/FernandaSVilla/DataGovern-Policy-as-Code
+[4]: https://github.com/FernandaSVilla/GDPR-knowledge-constellation
+[5]: https://github.com/FernandaSVilla/AI-and-Data-Governance-map#citation
+[6]: https://github.com/FernandaSVilla/GDPR-knowledge-constellation#citation
 
 ---
 
