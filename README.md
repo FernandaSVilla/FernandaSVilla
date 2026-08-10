@@ -62,6 +62,11 @@ Reading and writing about AI governance, data strategy, and compliance on [Mediu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariafsanchezvilla/)
 [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@FernandaSVilla)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/FernandaSVilla)
+<a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0003-3410-3366" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top">
+<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-inline-start:0.5em" alt="ORCID iD icon"/>
+https://orcid.org/0009-0003-3410-3366
+</a>
+
 
 ## Let's connect
 
@@ -73,9 +78,3 @@ Interested in talking about:
 - The space where technology meets policy
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/mariafsanchezvilla/) or open an issue in any repo.
-
-<a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0003-3410-3366" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top">
-<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-inline-start:0.5em" alt="ORCID iD icon"/>
-https://orcid.org/0009-0003-3410-3366
-</a>
-
