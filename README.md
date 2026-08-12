@@ -4,7 +4,7 @@
 <div align="center">
 <img src="./intro.gif" alt="Fernanda S. Villa" width="1050" />
 </div>
-
+ 
 # Welcome! I'm Fernanda S. Villa 
 
 ---
