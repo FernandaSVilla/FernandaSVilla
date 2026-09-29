@@ -50,17 +50,11 @@ Based in Germany | Learning and working in AI & Data Governance
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-FF6B9D?style=flat)](https://opensource.org/)
 
----
-
-## Latest writing
-
-Reading and writing about AI governance, data strategy, and compliance on [Medium](https://medium.com/@FernandaSVilla). 
 
 ---
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariafsanchezvilla/)
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@FernandaSVilla)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/FernandaSVilla)
 <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0003-3410-3366" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top">
 <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-inline-start:0.5em" alt="ORCID iD icon"/>
