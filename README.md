@@ -9,7 +9,7 @@
 
 --- 
 
-Based in Germany | Learning and working in AI & Data Governance
+Based in Germany | Independent researcher in AI & data governance for financial services: regulation, compliance and financial inclusion
 
 ---
 
@@ -30,8 +30,10 @@ Based in Germany | Learning and working in AI & Data Governance
 
 | Project | Project Here | Repository | DOI | Cite as |
 |---------|------|------|-----|-----|
+| Regulatory Overlap Calculator | [Visit][7] | [GitHub][8] | <a href="https://doi.org/10.5281/zenodo.23496781"><img src="https://zenodo.org/badge/1403606532.svg" alt="DOI"></a> | [Cite][9] |
+| Regulatory Overlap Map | [Visit][10] | [GitHub][11] | <a href="https://doi.org/10.5281/zenodo.23496803"><img src="https://zenodo.org/badge/1422187635.svg" alt="DOI"></a> | [Cite][12] |
 | AI & Data Governance Maps | [Visit][1] | [GitHub][2] | <a href="https://doi.org/10.5281/zenodo.21872486"><img src="https://zenodo.org/badge/1327018846.svg" alt="DOI"></a> | [Cite][5] |
-| The GDPR Constellation | [Visit][1] | [GitHub][4] | <a href="https://doi.org/10.5281/zenodo.21872517"><img src="https://zenodo.org/badge/1326969025.svg" alt="DOI"></a> | [Cite][6] |
+| The GDPR Constellation | [Visit][13] | [GitHub][4] | <a href="https://doi.org/10.5281/zenodo.21872517"><img src="https://zenodo.org/badge/1326969025.svg" alt="DOI"></a> | [Cite][6] |
 | DataGovern-Policy-as-Code | Coming soon | [GitHub][3] | Coming soon | Coming soon |
 
 [1]: https://fernandasvilla.github.io/AI-and-Data-Governance-map/
@@ -40,6 +42,13 @@ Based in Germany | Learning and working in AI & Data Governance
 [4]: https://github.com/FernandaSVilla/GDPR-knowledge-constellation
 [5]: https://github.com/FernandaSVilla/AI-and-Data-Governance-map#citation
 [6]: https://github.com/FernandaSVilla/GDPR-knowledge-constellation#citation
+[7]: https://fernandasvilla.github.io/regulatory-overlap-calculator/
+[8]: https://github.com/FernandaSVilla/regulatory-overlap-calculator
+[9]: https://github.com/FernandaSVilla/regulatory-overlap-calculator#cómo-citar
+[10]: https://fernandasvilla.github.io/regulatory-overlap-map/
+[11]: https://github.com/FernandaSVilla/regulatory-overlap-map
+[12]: https://github.com/FernandaSVilla/regulatory-overlap-map#cómo-citar
+[13]: https://fernandasvilla.github.io/GDPR-knowledge-constellation/
 
 ---
 
@@ -65,10 +74,14 @@ https://orcid.org/0009-0003-3410-3366
 ## Let's connect
 
 Interested in talking about:
+- How AI, data protection and financial regulation interact in banking decisions
+- Financial inclusion and access to banking services
 - How AI governance frameworks are evolving
 - Data governance automation and best practices
 - Privacy-first architectures
 - Open source tools for compliance and ethics
 - The space where technology meets policy
+
+
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/mariafsanchezvilla/) or open an issue in any repo.
